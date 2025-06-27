@@ -1,2 +1,2 @@
 # Axel
-My first attempt at a working cryptocurrency
+My first attempt at a working cryptocurrency!
