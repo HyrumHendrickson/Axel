@@ -1,0 +1,12 @@
+network: mainnet
+network_id: 0xA117E
+datadir: ./data
+p2p_listen: "0.0.0.0:9735"
+rpc_listen: "127.0.0.1:9736"
+bootstrap_peers: []
+target_block_time_sec: 30
+emission_years: 8
+address_version: 23
+burn_amount: "0.01"
+decimals: 8
+supply_cap: "100000000000.00000000"
